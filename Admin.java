@@ -5,7 +5,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 
-
 public class Admin extends javax.swing.JFrame {
 
     public Admin() {
